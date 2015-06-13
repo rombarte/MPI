@@ -19,4 +19,3 @@ int main(int argc, char *argv[]){
 /* Opis kodu: Program wyświetla tekst, w którym znajduje się informacja o numerze procesu oraz o ich łącznej sumie.
 Tekst ten zostaje wyświetlony tyle razy, ile jest dostępnych procesów. Warto zauważyć, że procesy są numerowane od zera
 i wyświetlane w nieznanej wcześniej kolejności. */
-
